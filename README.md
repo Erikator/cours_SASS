@@ -6,3 +6,6 @@ Site de référence : https://openclassrooms.com/fr
 Création : Eric CARON
 Logiciel : Sublime TEXT
 
+03/04/2020 : Ajout des code HTML pour relier le css avec la page HTML.
+
+
