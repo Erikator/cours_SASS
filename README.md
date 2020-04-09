@@ -1,4 +1,4 @@
-# Leçon sur l'utilisation du SASS
+# Leçon sur l'utilisation du SASS - Eric
 =================================
 
 Ce projet est un ensemble de cours pris sur OpenClassroom et intégré ici pour un suivi.
